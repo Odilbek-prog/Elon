@@ -72,12 +72,12 @@ const Login = () => {
         </form>
 
         <p class="mt-10 text-center text-sm/6 text-gray-500">
-          Don't have an account?
+          Not a member?
           <a
-            href="/register"
+            href="#"
             class="font-semibold text-indigo-600 hover:text-indigo-500"
           >
-            Register
+            Start a 14 day free trial
           </a>
         </p>
       </div>
